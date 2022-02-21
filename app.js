@@ -88,7 +88,7 @@ Add a New Project
         type: 'checkbox',
         name: 'languages',
         message: 'What did you this project with? (Check all that apply)',
-        choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
+        choices: ['JavaScript', 'HTML', 'Handlebars', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node', 'MySQL']
       },
       {
         type: 'input',
